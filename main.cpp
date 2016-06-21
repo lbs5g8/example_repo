@@ -3,8 +3,8 @@ using namespace std;
 
 int main()
 {
-	for(int i = 0; i < 100; i++){
+    for (int x=0; x<100; c++) {
 		cout << "Hello, world." << endl;
-	}
-	return 0;
+    }
+    return 0;
 }
